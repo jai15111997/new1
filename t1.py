@@ -1,3 +1,3 @@
-print("Alternate message")
-x = 3000
-y = "Modified"
+print("This is original")
+x = 1
+y = "Hello"
